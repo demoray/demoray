@@ -1,6 +1,6 @@
 ### Hello
 
-I'm a Principal Security Engineer at Microsoft Research, where I'm the architect of [Project Freta](https://aka.ms/freta), a project for detecting evidence of OS and sensor sabotage in memory snapshots of live systems, the author of [AVML](https://github.com/microsoft/avml), an open-source memory acquisition tool for Linux.  
+I'm a Principal Security Engineer at Microsoft Research, where I'm the architect of [Project Ire](https://aka.ms/projectire), a project for autonomously identifying malware at scale, the architect of [Project Freta](https://aka.ms/freta), a project for detecting evidence of OS and sensor sabotage in memory snapshots of live systems, and the author of [AVML](https://github.com/microsoft/avml), an open-source memory acquisition tool for Linux.  
 
 Previously, I was the architect for [Project OneFuzz](https://aka.ms/onefuzz), a project that enables continuous developer-driven fuzzing to practively harden software prior to release (Used by a number of Micsosoft teams, including Windows OS) until it graduated from a research project to a fully funded effort in the Windows organization.
 
